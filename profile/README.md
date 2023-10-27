@@ -1,4 +1,3 @@
 # ¡Hey, Aqui ObsiOasis!
 
-Servidor Multijugador para Latam ✨
-Eventos para creadores de contenido ❤️
+Network de Servidores de Minecraft con diversas modalidades ✨ y creadores de contenido destinada a la comunidad de creadores de contenido ❤️
